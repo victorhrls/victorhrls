@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Dual Degree student in **Engineering (Telecom Paris, Institut Polytechnique de Paris)** and **MSc Network Industries and the Digital Economy (Université Paris Dauphine - PSL)**.  
+- 🎓 &nbsp; Dual Major student in **Engineering (Telecom Paris, Institut Polytechnique de Paris)** and **MSc Network Industries and the Digital Economy (Université Paris Dauphine - PSL)**.  
 - 📊 &nbsp; Background in **Mechatronics Engineering (USP - Brazil)** with a strong focus on **Data Science, Machine Learning, and Econometrics**.  
 - 💡 &nbsp; Passionate about applying data to **business insights, technological transformation, and economic analysis of markets**.  
 - 🌍 &nbsp; Experienced in **startups, fintech, and data-driven decision-making**.  
